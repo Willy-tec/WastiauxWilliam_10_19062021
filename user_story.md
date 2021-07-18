@@ -5,9 +5,9 @@ ____________________________
 
 En tant qu'**utilisateur**,
 
-Je souhaite pouvoir me connecté sur la page login
+Je souhaite pouvoir rentrer mes informations
 
-En  utilisant mon mot de passe, et login
+Afin de pouvoir me connecter
 
 **
 
@@ -15,13 +15,15 @@ En tant qu'**utilisateur**,
 
 Je souhaite pouvoir récuperer mon mot de passe,
 
-Si je l'ai perdu
+Afin de pouvoir le saisir dans le champ mot de passe
 
 **
 
 En tant que nouvelle **utilisateur**,
 
 Je souhaite pouvoir créer un compte
+
+Afin de pouvoir me connecter.
 
 
 ____________________________
@@ -30,6 +32,8 @@ ____________________________
 
 
 En tant qu'**utilisateur**,
+
+Lorsque je suis sur la page dashboard,
 
 Je souhaite avoir un récapitulatif des informations importante
 
@@ -65,13 +69,15 @@ En tant qu'**utilisateur**,
 
 Je souhaite voir facilement les rendez vous que j'ai.
 
-Afin de gerer mon emploi sans difficultées.
+Afin de gerer mon emploi du temps sans difficultées.
 
 **
 
 En tant qu'**enseignant**, 
 
 Je dois pouvoir ajouter de nouveau évenements
+
+Afin de controller l'emploi du temps de mes élèves
 
 
 ____________________________
@@ -90,6 +96,6 @@ Afin de savoir ou j'en suis dans mes démarches.
 
 En tant que **professeur**,
 
-Je dois pouvoir ajouter des taches a un élève
+Je dois pouvoir ajouter des taches à un élève
 
 Afin de l'orienter dans ses démarches.
