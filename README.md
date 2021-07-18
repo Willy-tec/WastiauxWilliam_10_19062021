@@ -10,7 +10,7 @@
 <img src="assets/img/Cas_d_utilisation-Login.png" alt="Diagramme pour le login">
 <h3>Page du dashboard</h3>
 <img src="assets/img/Cas_d_utilisation-Dashboard.png" alt="Diagramme pour le dashboard">
-<h3>Page du messagerie</h3>
+<h3>Page de la messagerie</h3>
 <img src="assets/img/Cas_d_utilisation-Conversation.png" alt="Diagramme pour la messagerie">
 <h3>Page du calendrier</h3>
 <img src="assets/img/Cas_d_utilisation-Calendrier.png" alt="Diagramme pour le calendrier">
