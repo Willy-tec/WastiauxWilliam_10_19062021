@@ -101,4 +101,4 @@ Je dois pouvoir ajouter des taches à un élève
 Afin de l'orienter dans ses démarches.
 
 _____________________________
-https://willy-tec.github.io/WastiauxWilliam_10_19062021/
+[page principale](https://willy-tec.github.io/WastiauxWilliam_10_19062021/)
